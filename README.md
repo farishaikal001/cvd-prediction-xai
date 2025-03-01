@@ -28,4 +28,4 @@ Dataset description:
 15. thal: (normal, fixed defect, reversible defect)
 16. num: predicted attribute
 
-17. Refer "CVD Prediction XAI by Faris.pdf" attached in this repo for the report.
+Refer "CVD Prediction XAI by Faris.pdf" attached in this repo for the report.
